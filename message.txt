@@ -1,0 +1,6 @@
+Hello *{}*,
+
+How are you? I hope you doing well.
+This is an automated text message.
+
+Thank you.
